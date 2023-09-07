@@ -1,11 +1,11 @@
 # Laravel ECste v1.0
 
-## :green_book: 概要
-## :green_book: 構成
-## :green_book: 使用ライブラリ
-## :green_book: 仕様
+- 概要
+- 構成
+- 使用ライブラリ
+- 仕様
 
-------------
+
 
 ## :green_book: 概要
 Laravelの機能を使用した、簡易的なECサイト
