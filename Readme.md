@@ -14,6 +14,7 @@ Laravelの機能を使用した、簡易的なECサイト
 - Laravel Framework 9.52.15
 - php:8.1-apache
 - mariadb:10.3
+- Docker
 - xdebug-3.1.5
 
 ## :green_book: 使用ライブラリ
